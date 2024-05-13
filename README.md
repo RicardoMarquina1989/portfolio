@@ -12,7 +12,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here](https://pedronunes1207.netlify.app/).
+## View live preview [here](https://pedroportfolio.vercel.app/).
 
 ---
 
