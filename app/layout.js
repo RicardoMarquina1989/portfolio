@@ -1,16 +1,16 @@
-import { GoogleTagManager } from '@next/third-parties/google';
-import { Inter } from 'next/font/google';
-import { ToastContainer } from 'react-toastify';
-import 'react-toastify/dist/ReactToastify.css';
-import Footer from './components/footer';
-import Navbar from './components/navbar';
-import './css/card.scss';
-import './css/globals.scss';
-const inter = Inter({ subsets: ['latin'] });
+import { GoogleTagManager } from "@next/third-parties/google";
+import { Inter } from "next/font/google";
+import { ToastContainer } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
+import Footer from "./components/footer";
+import Navbar from "./components/navbar";
+import "./css/card.scss";
+import "./css/globals.scss";
+const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: `BotBlock Expertise: Luis Sebastian's Portfolio`,
-  description: `Explore Luis Sebastian's expertise in blockchain and bot development with BotBlock Expertise. Discover innovative solutions and cutting-edge technology for the future.`,
+  title: `BotBlock Expertise: Pedro Nunes's Portfolio`,
+  description: `Explore Pedro Nunes's expertise in blockchain and bot development with BotBlock Expertise. Discover innovative solutions and cutting-edge technology for the future.`,
 };
 
 export default function RootLayout({ children }) {
@@ -26,5 +26,5 @@ export default function RootLayout({ children }) {
       </body>
       <GoogleTagManager gtmId={process.env.NEXT_PUBLIC_GTM} />
     </html>
-  )
-};
+  );
+}
