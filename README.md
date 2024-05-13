@@ -1,24 +1,18 @@
-<p align="center" width="100%">
-    <img height="100" src="https://github.com/said7388/developer-portfolio/assets/77630868/c0064908-cd5f-4751-a77c-eba90a62b55c">
-</p>
+# [Built Portfolio With GitHub ](https://github.com/pedronunes1207/pedroportfolio.git)
 
 ---
 
-# [Built Portfolio With GitHub ](https://github.com/said7388/github-portfolio)
+# Code Wizardry and Bot Banter: Unveiling My Digital Lair
+
+### Impressive! As a blockchain and bot expert, I bring a wealth of knowledge and experience to the table. With a deep understanding of blockchain technology and expertise in bot development, I am well-equipped to tackle a wide range of projects in these domains. Whether it's building decentralized applications, smart contracts, or designing intelligent chatbots, I am committed to delivering innovative solutions tailored to meet your specific needs. Let's leverage the power of blockchain and automation to drive your project forward!
 
 ---
 
-# Developer Portfolio
-
-### Are you struggling to create a professional portfolio website? Look no further! You can use the Developer Portfolio template and create your very own personalized portfolio today! My website is designed to be user-friendly and easily customizable, making it perfect for both developers and freelancers.
-
----
-
-# Demo :movie_camera:
+# Demo
 
 ![](./public/image/screen.png)
 
-## View live preview [here](https://abusaid.netlify.app/).
+## View live preview [here](https://pedronunes1207.netlify.app/).
 
 ---
 
@@ -41,7 +35,6 @@
 - SKILLS
 - PROJECTS
 - EDUCATION
-- BLOG
 
 ---
 
@@ -56,6 +49,8 @@
 
 ```
 node --version
+node v18.20.2 npm 10.5.0
+
 git --version
 ```
 
@@ -68,9 +63,9 @@ git --version
 To Fork the repo click on the fork button at the top right of the page. Once the repo is forked open your terminal and perform the following commands
 
 ```
-git clone https://github.com/<YOUR GITHUB USERNAME>/developer-portfolio.git
+git clone https://github.com/<YOUR GITHUB USERNAME>/<YOUR GITHUB REPOSITORYNAME>
 
-cd developer-portfolio
+cd <YOUR GITHUB REPOSITORYNAME>
 ```
 
 ### Install packages from the root directory
@@ -92,39 +87,6 @@ yarn dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ---
-
-# Usage :joystick:
-
-Goto [emailjs.com](https://www.emailjs.com/) and create a new account for the mail sending. In free trial you will get 200 mail per month. After setup `emailjs` account, Please create a new `.env` file from `.env.example` file.
-
-Eg:
-
-```env
-NEXT_PUBLIC_EMAILJS_SERVICE_ID =
-NEXT_PUBLIC_EMAILJS_TEMPLATE_ID =
-NEXT_PUBLIC_EMAILJS_PUBLIC_KEY =
-NEXT_PUBLIC_GTM = # For site analytics
-NEXT_PUBLIC_APP_URL = "http://127.0.0.1:3000"
-NEXT_PUBLIC_RECAPTCHA_SECRET_KEY =
-NEXT_PUBLIC_RECAPTCHA_SITE_KEY =
-```
-
-### Then, Customize data in the `utils/data` [folder](https://github.com/said7388/developer-portfolio/tree/main/utils/data).
-
-Eg:
-
-```javascript
-export const personalData = {
-  name: "Pedro Nunes",
-  profile: "/profile.png",
-  designation: "Blockchain | Bot | Ruby Expert",
-  description: "My name is Pedro Nunes...",
-  email: "luissebastian@gmail.com",
-  phone: "+8801608797655",
-  address: "Artigas, Argentina",
-  github: "https://github.com/said7388",
-};
-```
 
 ---
 
