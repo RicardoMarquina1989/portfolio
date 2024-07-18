@@ -7,7 +7,7 @@ function Navbar() {
       <div className="flex items-center justify-between py-5">
         <div className="flex flex-shrink-0 items-center">
           <Link href="/" className=" text-[#16f2b3] text-3xl font-bold">
-            Pedro Nunes.
+            Ricardo Maquina.
           </Link>
         </div>
 
@@ -35,7 +35,7 @@ function Navbar() {
               </div>
             </Link>
           </li>
-          <li>
+          {/* <li>
             <Link
               className="block px-4 py-2 no-underline outline-none hover:no-underline"
               href="/#skills"
@@ -44,7 +44,7 @@ function Navbar() {
                 SKILLS
               </div>
             </Link>
-          </li>
+          </li> */}
           <li>
             <Link
               className="block px-4 py-2 no-underline outline-none hover:no-underline"
@@ -52,16 +52,6 @@ function Navbar() {
             >
               <div className="text-sm text-white transition-colors duration-300 hover:text-pink-600">
                 EDUCATION
-              </div>
-            </Link>
-          </li>
-          <li>
-            <Link
-              className="block px-4 py-2 no-underline outline-none hover:no-underline"
-              href="/#projects"
-            >
-              <div className="text-sm text-white transition-colors duration-300 hover:text-pink-600">
-                PROJECTS
               </div>
             </Link>
           </li>

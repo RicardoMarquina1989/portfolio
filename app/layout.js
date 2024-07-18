@@ -9,8 +9,8 @@ import "./css/globals.scss";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: `BotBlock Expertise: Pedro Nunes's Portfolio`,
-  description: `Explore Pedro Nunes's expertise in blockchain and bot development with BotBlock Expertise. Discover innovative solutions and cutting-edge technology for the future.`,
+  title: `Senior Backend Developer: Ricardo Maquina's Portfolio`,
+  description: `Creative and experienced Backend Developer with a strong history of working in Information Technology, specializing in backend development. Fast learner, always up-to-date with the latest technologies, continuously improving coding skills. Dedicated to delivering high-quality code and creating efficient solutions.`,
 };
 
 export default function RootLayout({ children }) {

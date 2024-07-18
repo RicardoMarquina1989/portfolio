@@ -1,9 +1,23 @@
 export const experiences = [
   {
     id: 1,
-    title: "Here are my key roles in my previous products:",
+    title: "ZoomAgri, Argentina",
     company:
-      "Specialized in blockchain development with a focus on NFTs, crafted blockchain infrastructure, smart contracts, and authentication systems for NFT Marketplace. Engineered backend solutions integrating AI and AWS services for AI Powered Financial App. Led full-stack development of web apps using NextJS, TypeScript, NestJS, and AWS for Travel Agency and AI Powered Real Estate projects.",
-    duration: "(Jan 2019 - Present)",
+      "Software Engineer: Developed and maintained backend services and RESTful APIs using Node.js and Express.js, enhancing overall system performance and security.",
+    duration: "(Apr 2021  - Dec 2023)",
+  },
+  {
+    id: 2,
+    title: "Baker McKenzie, Argentina",
+    company:
+      "Senior Backend Developer: Architected and developed scalable RESTful APIs and led the migration to microservices architecture, improving system scalability and reducing costs.",
+    duration: "(Aug 2016  - Mar 2021)",
+  },
+  {
+    id: 3,
+    title: "Revai Care, Argentina",
+    company:
+      "Junior Developer: Designed and implemented scalable, event-driven backend services using Node.js and AWS Lambda, significantly improving system reliability and reducing infrastructure costs.",
+    duration: "(Sep 2013 - Jul 2016)",
   },
 ];

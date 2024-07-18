@@ -1,8 +1,8 @@
 export const personalData = {
-  name: "Pedro Nunes",
+  name: "Ricardo Maquina",
   profile: '/profile.png',
-  designation: "with a passion for pushing the boundaries of technology",
-  description: "Hey, I'm Pedro Nunes from Brazil, originally a Ruby developer who transitioned into becoming a seasoned blockchain and bot development expert. With my roots in Ruby, I've ventured into the exciting realms of blockchain and bot technologies, bringing a unique blend of experience and innovation to the table. Let's dive into the possibilities of this dynamic tech landscape together.",
+  designation: "with a strong history of working in Information Technology, specializing in backend development",
+  description: "Hey, I'm Ricardo Maquina from Argentina, creative and experienced Backend Developer with a strong history of working in Information Technology, specializing in backend development. Fast learner, always up-to-date with the latest technologies, continuously improving coding skills. Dedicated to delivering high-quality code and creating efficient solutions. I am seeking a remote backend development position with a progressive company to leverage technical skills and contribute to innovative projects. Eager to apply my expertise and experience to enhance system performance and drive business success.",
   address: 'Sao Paulo, Brazil.',
-  github: 'https://github.com/pedronunes1207',
+  github: 'https://github.com/RicardoMarquina1989',
 }

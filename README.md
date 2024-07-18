@@ -1,10 +1,11 @@
-# [Built Portfolio With GitHub ](https://github.com/pedronunes1207/pedroportfolio.git)
 
 ---
 
-# Code Wizardry and Bot Banter: Unveiling My Digital Lair
+# Senior Backend Developer
 
-### Impressive! As a blockchain and bot expert, I bring a wealth of knowledge and experience to the table. With a deep understanding of blockchain technology and expertise in bot development, I am well-equipped to tackle a wide range of projects in these domains. Whether it's building decentralized applications, smart contracts, or designing intelligent chatbots, I am committed to delivering innovative solutions tailored to meet your specific needs. Let's leverage the power of blockchain and automation to drive your project forward!
+### Impressive! Creative and experienced Backend Developer with a strong history of working in Information Technology, specializing in backend development. Fast learner, always up-to-date with the latest technologies, continuously improving coding skills. Dedicated to delivering high-quality code and creating efficient solutions.
+
+### Objective: Seeking a remote backend development position with a progressive company to leverage technical skills and contribute to innovative projects. Eager to apply my expertise and experience to enhance system performance and drive business success.
 
 ---
 
@@ -12,7 +13,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here](https://pedroportfolio.vercel.app/).
+## View live preview [here](https://portfolio.vercel.app/).
 
 ---
 
@@ -33,8 +34,6 @@
 - ABOUT ME
 - EXPERIENCE
 - SKILLS
-- PROJECTS
-- EDUCATION
 
 ---
 
@@ -107,4 +106,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ---
 
-### Author: Pedro Nunes
+### Author: Ricardo Maquina

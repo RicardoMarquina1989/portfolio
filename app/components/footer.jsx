@@ -15,16 +15,16 @@ function Footer() {
             © Developer Portfolio by{" "}
             <Link
               target="_blank"
-              href="https://github.com/pedronunes1207"
+              href="https://github.com/RicardoMarquina1989"
               className="text-[#16f2b3]"
             >
-              Pedro Nunes.
+              Ricardo Maquina.
             </Link>
           </p>
           <div className="flex items-center gap-5">
             <Link
               target="_blank"
-              href="https://github.com/pedronunes1207/pedroportfolio.git"
+              href="https://github.com/RicardoMarquina1989/portfolio.git"
               className="flex items-center gap-2 uppercase hover:text-[#16f2b3]"
             >
               <IoStar />
@@ -32,7 +32,7 @@ function Footer() {
             </Link>
             <Link
               target="_blank"
-              href="https://github.com/pedronunes1207/pedroportfolio.git/fork"
+              href="https://github.com/RicardoMarquina1989/portfolio.git/fork"
               className="flex items-center gap-2 uppercase hover:text-[#16f2b3]"
             >
               <CgGitFork />
