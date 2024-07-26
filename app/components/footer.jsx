@@ -21,7 +21,7 @@ function Footer() {
               Ricardo Maquina.
             </Link>
           </p>
-          <div className="flex items-center gap-5">
+          {/* <div className="flex items-center gap-5">
             <Link
               target="_blank"
               href="https://github.com/RicardoMarquina1989/portfolio.git"
@@ -38,7 +38,7 @@ function Footer() {
               <CgGitFork />
               <span>Fork</span>
             </Link>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>
