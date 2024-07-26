@@ -71,8 +71,8 @@ function Experience() {
                           <i>{experience.company}</i>
                         </p>
                         <ul>
-                          {experience.items.map((item) => (
-                            <li>{item}</li>
+                          {experience.items.map((item, idx) => (
+                            <li key={idx}>{item}</li>
                           ))}
                         </ul>
                       </div>
