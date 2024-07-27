@@ -1,12 +1,9 @@
-
 ---
-
 # Senior Backend Developer
 
 ### Impressive! Creative and experienced Backend Developer with a strong history of working in Information Technology, specializing in backend development. Fast learner, always up-to-date with the latest technologies, continuously improving coding skills. Dedicated to delivering high-quality code and creating efficient solutions.
 
 ### Objective: Seeking a remote backend development position with a progressive company to leverage technical skills and contribute to innovative projects. Eager to apply my expertise and experience to enhance system performance and drive business success.
-
 ---
 
 # Demo
@@ -106,4 +103,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ---
 
-### Author: Ricardo Maquina
+### Author: Ricardo Marquina

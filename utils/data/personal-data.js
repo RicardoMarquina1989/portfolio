@@ -1,5 +1,5 @@
 export const personalData = {
-  name: "Ricardo Maquina",
+  name: "Ricardo Marquina",
   profile: "/profile.png",
   email: "morquinamolinaricardoandres@gmail.com",
   designation:

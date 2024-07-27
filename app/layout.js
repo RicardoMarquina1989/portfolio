@@ -9,8 +9,8 @@ import "./css/globals.scss";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: `Senior Backend Developer: Ricardo Maquina's Portfolio`,
-  description: `Creative and experienced Backend Developer with a strong history of working in Information Technology, specializing in backend development. Fast learner, always up-to-date with the latest technologies, continuously improving coding skills. Dedicated to delivering high-quality code and creating efficient solutions.`,
+  title: `Senior Fullstack Developer: Ricardo Marquina's Portfolio`,
+  description: `Creative and experienced Fullstack Developer with a strong history of working in Information Technology, specializing in backend development. Fast learner, always up-to-date with the latest technologies, continuously improving coding skills. Dedicated to delivering high-quality code and creating efficient solutions.`,
 };
 
 export default function RootLayout({ children }) {
